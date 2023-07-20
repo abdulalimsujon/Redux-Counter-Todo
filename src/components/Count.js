@@ -26,9 +26,7 @@ const myNum = useRef();
                     <button onClick={()=>{dispatch(setCustom(myNum.current.value))}}>setCustom</button>
                 </div>
                 <div>
-                   
-
-                </div>
+               </div>
 
 
             </div>

@@ -1,12 +1,15 @@
 
 import './App.css';
-import CounterPage from './pages/CounterPage';
+import TodoPage from './pages/TodoPage';
+// import CounterPage from './pages/CounterPage';
 
 function App() {
   return (
     <div className="App">
 
-      <CounterPage></CounterPage>
+      {/* <CounterPage></CounterPage> */}
+
+      <TodoPage></TodoPage>
 
 
   
